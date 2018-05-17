@@ -9,6 +9,9 @@
   -moz-box-sizing: border-box;
 }
 
+
+
+/* Posititoning Classes */
 .wrapper {
   width: 960px;
   margin: 0 auto;
@@ -52,7 +55,9 @@
 .clear {
   clear: both;
 }
+/*Sections*/
 
+section {
+  margin-bottom: 20px;
 
-
-/* Posititoning Classes */
+}
